@@ -295,7 +295,7 @@ footer {
         strategy and technology. I love building user-friendly websites 
         and solving problems with code.
       </p>
-      <a class="resume-btn" href="./Deena Resume 1.pdf" download="Deena_Resume">Download Resume </a>
+      <a class="resume-btn" href="./Deena Resume 1.pdf" download="Deena Resume 1.pdf">Download Resume </a>
 
     </div>
   </section>
